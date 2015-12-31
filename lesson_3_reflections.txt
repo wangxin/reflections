@@ -3,6 +3,7 @@ local?
 
     Fill in your answer here
 Use a remote repository. As a backup. Accessible by others. Can collaborate.
+Whever I need to backup it somewhere, make it public.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
