@@ -10,6 +10,12 @@ automatically stay up-to-date with your remote repository?
 
     Fill in your answer here
 
+If others are working on the same branch, pull automatically may get the changes
+of others into the code I am currently working on. This could interferene with
+what I am doing.
+Sometimes, the changes on remote are not what I wanted.
+Or new branches on remote are not what I wanted.
+
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
