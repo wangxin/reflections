@@ -32,12 +32,26 @@ stored locally?
 
     Fill in your answer here
 
+So that the changes of remote can be checked and then I can decide whether to 
+merge them with my local changes.
+
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
     Fill in your answer here
+Perhaps I would using email. Definitely Git and tools like GitHub would be
+easier. If I use email, I have to explain what I've changed. My peer would be
+uneasy to figure out what I have changed. And all the interactions would remain 
+in email thread.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+* Need to try something new
+* Need to make a lot of change to code base
+* Not sure about what I am going to change or add
+* Need others to review my changes before merge into the master branch
+
+If make changes to master branch directly, no back and forth overhead. The
+changes will be in master and available to others as soon as I pushed back.
